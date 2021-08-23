@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "Custom ESLint config supporting React and TS",
   "keywords": ["ESLint, TSLint, Linter, Linting"],
+  "repository": "https://github.com/floriankuc/eslint-config-flowkuc.git",
   "main": "index.js",
   "author": "Florian Kuc",
   "license": "MIT",
