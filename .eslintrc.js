@@ -63,7 +63,7 @@ module.exports = {
 		],
 		'@typescript-eslint/no-non-null-assertion': 1,
 		'@typescript-eslint/array-type': [2, { default: 'array' }],
-		'@typescript-eslint/no-shadow': ['error'],
+		'@typescript-eslint/no-shadow': ['warn'],
 	},
 	overrides: [
 		{
